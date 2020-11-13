@@ -18,6 +18,8 @@ Esse repositório possui a resolução do teste da CodeBy para avaliar as habili
 
 ## Resultado
 
+![Screenshot](screenshots/Peek2020-11-1301-28.gif)
+
 ## Como testar?
 Basta baixar este repositorio e abrir o arquivo index.html ou abrir o projeto em seu VSCode e executar com o LiveServer.
 
