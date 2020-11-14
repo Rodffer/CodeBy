@@ -16,6 +16,13 @@
 ## Descrição
 Esse repositório possui a resolução do teste da CodeBy para avaliar as habilidades utilizando FlexBox CSS.
 
+<h2>Tecnologias:</h2>
+<lu>
+  <li>React</li>
+  <li>Styled Components</li>
+  <li>Eslint + Prettier</li>
+</lu>
+
 ## Resultado
 
 ## Como testar?
