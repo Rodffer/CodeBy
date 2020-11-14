@@ -1,4 +1,4 @@
-# Teste CodeBy | Teste Layout
+# Teste CodeBy | Teste Layout Utilizando React
 
 <p align="center">
   <br>
@@ -19,6 +19,15 @@ Esse repositório possui a resolução do teste da CodeBy para avaliar as habili
 ## Resultado
 
 ## Como testar?
-Basta baixar este repositorio e abrir o arquivo index.html ou abrir o projeto em seu VSCode e executar com o LiveServer.
+Basta baixar este repositorio e executar o comando.
+
+**baixar dependencias**
+```javascript
+yarn
+```
+**executar aplicacao**
+```javascript
+yarn start
+```
 
 <p>Feito com <g-emoji class="g-emoji" alias="purple_heart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f49c.png">💜</g-emoji> by Rodffer <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji></p>
